@@ -36,8 +36,10 @@
     8. Find the percentage change 
     9. Get Number of Cars
     
-![alt text](IMG/image-1 copy.jpg)  
-![alt text](IMG/image copy.jpg)   
+<img src="/IMG/image-1 copy.jpg" alt="My cool logo"/>
+<img src="/IMG/image copy.jpg" alt="My cool logo"/>
+
+
  
 ### Machine Learning Approach 
     
@@ -50,8 +52,9 @@
     3. Image is loaded and all the detections are saved and lated analysed 
     4. Cars are counted in the Detections 
     
-![alt text](IMG/image.jpg)  
-![alt text](IMG/imagenew.jpg)   
+<img src="/IMG/image.jpg" alt="My cool logo"/>
+<img src="/IMG/imagenew.jpg" alt="My cool logo"/>
+  
 
     
     
