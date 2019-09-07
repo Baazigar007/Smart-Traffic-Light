@@ -35,8 +35,8 @@
     7. Take Difference from reference image 
     8. Find the percentage change 
     9. Get Number of Cars
-[Congested Road Image](https://drive.google.com/open?id=1T8ugkifSdyH4-ruMSZwXpJOQqau-jxfe)   
-[Edge Detection Image](https://drive.google.com/open?id=1EL6_jVPHAOgQfAZQQGwHmv7jRyy5EuhR)   
+[alt text](IMG/image-1 copy.png)  
+[alt text](IMG/image copy.png)   
  
 ### Machine Learning Approach 
     
@@ -49,9 +49,8 @@
     3. Image is loaded and all the detections are saved and lated analysed 
     4. Cars are counted in the Detections 
     
-[Congested Road Image](https://drive.google.com/open?id=1Xngqvgoi46Su400-K8kVphidaib5x0Xu)
-[Object Detection Image](https://drive.google.com/open?id=1Qd4aM4Sfpzn6DZeZ0AK3kVBrcrAuqoKB)
-
+[alt text](IMG/image.jpg)  
+[alt text](IMG/imagenew.jpg)   
 
     
     
