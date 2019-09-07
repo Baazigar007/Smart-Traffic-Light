@@ -22,6 +22,8 @@ If the traffic light timers are showing correct time to regulate the traffic, th
 The above proposed solution can be implemented using **OpenCv** library in Python or **Machine Learning** via 
     Object Detection to count the number of cars in an image and also differentiate between the different types of vehicles.
     
+### Requirements 
+
 ### OpenCv Approach 
 
 Placing a Camera on each side of the intersection and Processing the images to get the number of vehicles 
