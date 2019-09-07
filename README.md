@@ -35,8 +35,9 @@
     7. Take Difference from reference image 
     8. Find the percentage change 
     9. Get Number of Cars
-[alt text](IMG/image-1 copy.png)  
-[alt text](IMG/image copy.png)   
+    
+![alt text](IMG/image-1 copy.png)  
+![alt text](IMG/image copy.png)   
  
 ### Machine Learning Approach 
     
@@ -49,8 +50,8 @@
     3. Image is loaded and all the detections are saved and lated analysed 
     4. Cars are counted in the Detections 
     
-[alt text](IMG/image.jpg)  
-[alt text](IMG/imagenew.jpg)   
+![alt text](IMG/image.jpg)  
+![alt text](IMG/imagenew.jpg)   
 
     
     
