@@ -22,7 +22,7 @@ If the traffic light timers are showing correct time to regulate the traffic, th
 The above proposed solution can be implemented using **OpenCv** library in Python or **Machine Learning** via 
     Object Detection to count the number of cars in an image and also differentiate between the different types of vehicles.
     
-#### OpenCv Approach 
+### OpenCv Approach 
 
 Placing a Camera on each side of the intersection and Processing the images to get the number of vehicles 
     on each side of the intersection .
@@ -39,14 +39,14 @@ Placing a Camera on each side of the intersection and Processing the images to g
     9. Get Number of Cars
 
 
-##### Black and White Image 
+#### Black and White Image 
 <img src="/IMG/image-1 copy.jpg" alt="Image BW"/>
 
-##### Edge Detection Image
+#### Edge Detection Image
 <img src="/IMG/image copy.jpg" alt="Edge Detection"/>
 
 
-#### Machine Learning Approach 
+### Machine Learning Approach 
     
 Capturing an image of each side of the intersection and passing it to the object detection module to get the 
     number of different vehicles on different sides of the intersection.
@@ -58,10 +58,10 @@ Capturing an image of each side of the intersection and passing it to the object
     4. Cars are counted in the Detections 
     
  
-##### Input Image  
+#### Input Image  
 <img src="/IMG/image.jpg" alt="Input"/>
 
-##### Detected Objects
+#### Detected Objects
 <img src="/IMG/imagenew.jpg" alt="Output"/>
   
 
@@ -94,4 +94,17 @@ else :
 - [x] __Single sided case__ i.e In a situation there is just one sided traffic flow and all the other sides of the intersection are empty then complete preference will be given to the corresponding side.**This is very useful in situations like evacuation**
     
     
-    
+### Types of Congested traffic clearing algorithms 
+
+    Two types of algorithms are developed in the project :
+    1. Variance-Based Algorithm
+    2. Slab Division Algorithm 
+
+#### Variance-Based Algorithm 
+
+#### Slab Division Algorithm 
+
+## Constraints & Future Scope 
+
+
+
