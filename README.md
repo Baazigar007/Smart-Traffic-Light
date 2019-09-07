@@ -36,7 +36,7 @@
     8. Find the percentage change 
     9. Get Number of Cars
    
-[Image]()   
+[Image](/images/image copy.png)   
  
 ### Machine Learning Approach 
     
