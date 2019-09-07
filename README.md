@@ -35,16 +35,24 @@
     7. Take Difference from reference image 
     8. Find the percentage change 
     9. Get Number of Cars
-   
-[Image](/images/image copy.png)   
+[Congested Road Image](https://drive.google.com/open?id=1T8ugkifSdyH4-ruMSZwXpJOQqau-jxfe)   
+[Edge Detection Image](https://drive.google.com/open?id=1EL6_jVPHAOgQfAZQQGwHmv7jRyy5EuhR)   
  
 ### Machine Learning Approach 
     
     Capturing an image of each side of the intersection and passing it to the object detection module to get the 
     number of different vehicles on different sides of the intersection.
     
-    The Image taken is 
+    The Image taken is :
+    1. Preprocessed to determine its path
+    2. Either a Model is inherited or New one is made to detect cars and different vehicles
+    3. Image is loaded and all the detections are saved and lated analysed 
+    4. Cars are counted in the Detections 
     
+[Congested Road Image](https://drive.google.com/open?id=1Xngqvgoi46Su400-K8kVphidaib5x0Xu)
+[Object Detection Image](https://drive.google.com/open?id=1Qd4aM4Sfpzn6DZeZ0AK3kVBrcrAuqoKB)
+
+
     
     
     
