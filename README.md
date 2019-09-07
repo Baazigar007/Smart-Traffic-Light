@@ -36,8 +36,8 @@
     8. Find the percentage change 
     9. Get Number of Cars
     
-![alt text](IMG/image-1 copy.png)  
-![alt text](IMG/image copy.png)   
+![alt text](IMG/image-1 copy.jpg)  
+![alt text](IMG/image copy.jpg)   
  
 ### Machine Learning Approach 
     
