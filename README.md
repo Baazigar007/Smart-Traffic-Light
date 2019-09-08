@@ -5,7 +5,7 @@
     With increasing urban population and hence the number of vehicles, need of controlling streets, 
     highways and roads is major issue. 
 One of the main reasons behind today’s traffic problem are the techniques that are used for traffic
-management. It has no emphasis on live traffic scenario, thus leading to inefficient traffic management systems.
+management. It has no emphasis on _live traffic scenario_, thus leading to inefficient traffic management systems.
 These traffic timers just show the preset time.
     
 If the traffic light timers are showing correct time to regulate the traffic, then the time wasted on unwanted green
@@ -212,11 +212,23 @@ More Efficient | Comparitively lesser Efficient
 ## Output Examples 
 
 #### Normal Version Output
-<img src="/IMG/op.png" alt=" Output Image "/>
+<img src="/IMG/Op.png" alt=" Output Image "/>
 
 #### Prototype Extended Version Output
-<img src="/IMG/proto.png" alt="Prototype output"/>
-## Constraints & Future Scope 
+<img src="/IMG/Proto.png" alt="Prototype output"/>
 
+## Constraints 
+
+- At Max 60 cars can be accomodated in the camera frame 
+- Getting Image of an empty road for reference image 
+- Object detection sometimes detects same vehicle as both car and truck simultaneously
+- Image Noise 
+
+## Future Scope
+
+- Can be developed for three lanes of each side of the road ( Prototype Extended Version )
+- Can be moulded to be used in situations like mass evacuation 
+- Linking of other traffic lights in sync to provide better congestion clearing 
+- Can be developed further to be used by emergency vehicles to provide Green route and decreasing accidents on intersections.
 
 
