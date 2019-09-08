@@ -40,10 +40,10 @@ Placing a Camera on each side of the intersection and Processing the images to g
 
 
 #### Black and White Image 
-<img src="/IMG/Proc1.jpg" width="450" height="500">
+![Image](/IMG/Proc1.jpg)
 
 #### Edge Detection Image
-<img src="/IMG/Proc2.jpg" width="450" height="500">
+![Image](/IMG/Proc2.jpg)
 
 ### Machine Learning Approach 
     
