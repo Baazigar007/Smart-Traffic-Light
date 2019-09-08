@@ -12,7 +12,7 @@ If the traffic light timers are showing correct time to regulate the traffic, th
     signals will be saved. Timer for every lane is the simplest way to control traffic. 
     And if those timers are predicting exact time then automatically the system will be more efficient.
     
-<img src="https://www.transportation.gov/sites/dot.gov/files/2.jpg" width="100" height="100">
+<img src="https://www.transportation.gov/sites/dot.gov/files/2.jpg" width="1000" height="500">
     
 
 ## How is it [Solved](https://webchronicletoday.com/2019/09/05/intelligent-traffic-management-system-market-ability-to-improve-efficiency-in-various-situations-including-mobility-and-road-transport-to-boost-the-market/) ??
@@ -40,11 +40,10 @@ Placing a Camera on each side of the intersection and Processing the images to g
 
 
 #### Black and White Image 
-![Image](/IMG/Proc1.jpg)
+<img src="/IMG/Op.jpg" width="450" height="500">
 
 #### Edge Detection Image
-![Image](/IMG/Proc2.jpg)
-
+<img src="/IMG/Proc.jpg" width="450" height="500">
 ### Machine Learning Approach 
     
 Capturing an image of each side of the intersection and passing it to the object detection module to get the 
