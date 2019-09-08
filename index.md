@@ -1,4 +1,3 @@
-# Smart-Traffic-Light
 
 ## What is the Problem ??
 
@@ -15,56 +14,6 @@ If the traffic light timers are showing correct time to regulate the traffic, th
     
 ![Image](https://www.transportation.gov/sites/dot.gov/files/2.jpg)
     
-## Requirements 
-
-- Python IDE , preferably PyCharm 
-
-- Download the RetinaNet model file that will be used for object detection via this [link](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5).
-
-- Tensorflow
-```python
-pip install tensorflow
-```
-
-- Numpy
-```python
-pip install numpy
-```
-
-- SciPy
-```python
-pip install scipy
-```
-
-- OpenCV
-```python
-pip install opencv-python
-```
-
-- Pillow
-```python
-pip install pillow
-```
-
-- Matplotlib
-```python
-pip install matplotlib
-```
-
-- H5py
-```python
-pip install h5py
-```
-
-- Keras
-```python
-pip install keras
-```
-
-- ImageAI
-```python
-pip3 install imageai -- upgrade
-```
 
 ## How is it [Solved](https://webchronicletoday.com/2019/09/05/intelligent-traffic-management-system-market-ability-to-improve-efficiency-in-various-situations-including-mobility-and-road-transport-to-boost-the-market/) ??
     
