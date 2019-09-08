@@ -12,7 +12,7 @@ If the traffic light timers are showing correct time to regulate the traffic, th
     signals will be saved. Timer for every lane is the simplest way to control traffic. 
     And if those timers are predicting exact time then automatically the system will be more efficient.
     
-![Image](https://www.transportation.gov/sites/dot.gov/files/2.jpg)
+<img src="https://www.transportation.gov/sites/dot.gov/files/2.jpg" width="100" height="100">
     
 
 ## How is it [Solved](https://webchronicletoday.com/2019/09/05/intelligent-traffic-management-system-market-ability-to-improve-efficiency-in-various-situations-including-mobility-and-road-transport-to-boost-the-market/) ??
