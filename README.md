@@ -13,7 +13,57 @@ If the traffic light timers are showing correct time to regulate the traffic, th
     And if those timers are predicting exact time then automatically the system will be more efficient.
     
 ![Image](https://www.transportation.gov/sites/dot.gov/files/2.jpg)
+    
+## Requirements 
 
+- Python IDE , preferably PyCharm 
+
+- Download the RetinaNet model file that will be used for object detection via this [link](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5).
+
+- Tensorflow
+```python
+pip install tensorflow
+```
+
+- Numpy
+```python
+pip install numpy
+```
+
+- SciPy
+```python
+pip install scipy
+```
+
+- OpenCV
+```python
+pip install opencv-python
+```
+
+- Pillow
+```python
+pip install pillow
+```
+
+- Matplotlib
+```python
+pip install matplotlib
+```
+
+- H5py
+```python
+pip install h5py
+```
+
+- Keras
+```python
+pip install keras
+```
+
+- ImageAI
+```python
+pip3 install imageai --upgrade
+```
 
 ## How is it [Solved](https://webchronicletoday.com/2019/09/05/intelligent-traffic-management-system-market-ability-to-improve-efficiency-in-various-situations-including-mobility-and-road-transport-to-boost-the-market/) ??
     
@@ -22,8 +72,6 @@ If the traffic light timers are showing correct time to regulate the traffic, th
 The above proposed solution can be implemented using **OpenCv** library in Python or **Machine Learning** via 
     Object Detection to count the number of cars in an image and also differentiate between the different types of vehicles.
     
-### Requirements 
-
 ### OpenCv Approach 
 
 Placing a Camera on each side of the intersection and Processing the images to get the number of vehicles 
