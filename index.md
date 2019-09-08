@@ -176,8 +176,3 @@ More Efficient | Comparitively lesser Efficient
 - Can be moulded to be used in situations like mass evacuation 
 - Linking of other traffic lights in sync to provide better congestion clearing 
 - Can be developed further to be used by emergency vehicles to provide Green route and decreasing accidents on intersections.
-
-## Contact Me ??
-
-<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjg3vzZ78HkAhUMY48KHefHDScQjRx6BAgBEAQ&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2ijH7Xik8P4AVa-yQ2lHOU&ust=1568054270231035" width="50" height="50"
-
