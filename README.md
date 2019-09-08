@@ -2,8 +2,8 @@
 
 ## What is the Problem ??
 
-    With increasing urban population and hence the number of vehicles, need of controlling streets, highways and roads is
-    major issue. 
+    With increasing urban population and hence the number of vehicles, need of controlling streets, 
+    highways and roads is major issue. 
 One of the main reasons behind today’s traffic problem are the techniques that are used for traffic
 management. It has no emphasis on live traffic scenario, thus leading to inefficient traffic management systems.
 These traffic timers just show the preset time.
@@ -62,7 +62,7 @@ pip install keras
 
 - ImageAI
 ```python
-pip3 install imageai --upgrade
+pip3 install imageai -- upgrade
 ```
 
 ## How is it [Solved](https://webchronicletoday.com/2019/09/05/intelligent-traffic-management-system-market-ability-to-improve-efficiency-in-various-situations-including-mobility-and-road-transport-to-boost-the-market/) ??
@@ -152,8 +152,70 @@ else :
 
 #### Variance-Based Algorithm 
 
+    The variance in probability theory and statistics is a way to measure how far a set of numbers is spread out. 
+    Variance describes how much a random variable differs from its expected value. The variance is defined 
+    as the average of the squares of the differences between the individual (observed) and the expected value.
+    
+```python
+VarianceVal=Variance(List)
+    if VarianceVal<100:
+        return 25
+    elif VarianceVal<200:
+        return 40
+    elif VarianceVal<400:
+        return 50
+    else:           #maximum 650 
+        return 60
+```
+    
+Once Variance of the Number of the cars on the 4 sides is calculated , the program will know how spread out the numbers are and will alot the Time for Green light on each side depending upon the value of variance .
+Timers according to variance are used to make the data less spread out and it also tends to bring the maximum value close and in cases even less than second and third maximum number in the list thus making the List less complex and maintaining uniformity.
+Use of Variance for alloting the time for Green signal improves the efficiency as the algorithm becomes more dynamic and situation dependent instead of being static .
+
+For eg: 
+-  List = [40,50,45,43] 
+    - Will result in Low variance (13.25) and thus providing similar and comparitively less time for each side Green signal will be fair and performance wise relevant.
+
+- List = [1,2,4,60]
+    - Will result in High variance (624.6) and after taking in consideration the _Few Car Case_ performance wise relevant timimgs will be alloted 
+
+- List = [5,20,30,45]
+    - Will result in Moderate variance (212.5) and a timer of maximum 50 seconds will be alloted 
+    
 #### Slab Division Algorithm 
 
+    Slab consists of set of numbers with a lower and upper bound. Making slabs and dividing the number of cars 
+    on the basis of slabs and alloting appropriate time can be done to make the congested traffic flow more smoothly.
+    
+```python
+'''
+SLABS
+Congestion_0 - 00-10  -->20 secs
+Congestion_1 - 10-40  -->40 secs
+Congestion_2 - 40-60  -->60 secs
+'''
+```
+
+Once the number of cars on each side of the intersection is calculated , Slabs can be used to alot timimgs to different sides with the side with maximum number of cars given the priority of crossing the intersection and taking care of the above conditions so as to keep the flow of traffic efficient , smooth and fair .
+Timers to the slabs are alloted so as to make the maximum number of cars in that slab half , by letting half of the cars pass the intersection , Considering the contribution of a single car in a three lane road is 2 second . 
+
+For eg: 
+- List = [10,20,30,40] 
+    - Contains three elements of slab _1_ and one of slab _2_ initially and will later change according to the values 
+    
+Variance-Based Algorithm | Slabs-Division Algorithm
+------------------------ | ------------------------
+Calculates the Time according to the variance of the List | Calculates the Time according to the Value of a single Index
+Results in a more Dynamic approach | Comparitively lesser Dynamic then Variance-Based 
+More Efficient | Comparitively lesser Efficient 
+
+## Output Examples 
+
+#### Normal Version Output
+<img src="/IMG/op.png" alt=" Output Image "/>
+
+#### Prototype Extended Version Output
+<img src="/IMG/proto.png" alt="Prototype output"/>
 ## Constraints & Future Scope 
 
 
