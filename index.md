@@ -40,10 +40,11 @@ Placing a Camera on each side of the intersection and Processing the images to g
 
 
 #### Black and White Image 
-<img src="/IMG/Op.jpg" width="450" height="500">
+<img src="/IMG/Proc1.jpg" width="450" height="500">
 
 #### Edge Detection Image
-<img src="/IMG/Proc.jpg" width="450" height="500">
+<img src="/IMG/Proc2.jpg" width="450" height="500">
+
 ### Machine Learning Approach 
     
 Capturing an image of each side of the intersection and passing it to the object detection module to get the 
@@ -57,9 +58,10 @@ Capturing an image of each side of the intersection and passing it to the object
     
  
 #### Input Image  
-![Image](/IMG/image.jpg)
+<img src="/IMG/image.jpg" width="450" height="500">
+
 #### Detected Objects
-![Image](/IMG/imagenew.jpg)  
+<img src="/IMG/imagenew.jpg" width="450" height="500">  
 
 ```python
 
@@ -158,10 +160,11 @@ More Efficient | Comparitively lesser Efficient
 ## Output Examples 
 
 #### Normal Version Output
-![Image](/IMG/Op.png)
+<img src="/IMG/Op.png" width="700" height="500">
 
 #### Prototype Extended Version Output
-![Image](/IMG/Proto.png)
+<img src="/IMG/Proto.png" width="700" height="500">
+
 ## Constraints 
 
 - At Max 60 cars can be accomodated in the camera frame 
