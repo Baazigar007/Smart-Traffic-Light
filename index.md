@@ -63,9 +63,7 @@ Capturing an image of each side of the intersection and passing it to the object
 #### Detected Objects
 <img src="/IMG/imagenew.jpg" width="450" height="500">  
 
-```python
 
-```
 ## How are these Numbers manipulated ??
 
 Once stored in a list the number of cars are manipulated to clear the congestion as soon as possible .
@@ -179,4 +177,7 @@ More Efficient | Comparitively lesser Efficient
 - Linking of other traffic lights in sync to provide better congestion clearing 
 - Can be developed further to be used by emergency vehicles to provide Green route and decreasing accidents on intersections.
 
+## Contact Me ??
+
+<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjg3vzZ78HkAhUMY48KHefHDScQjRx6BAgBEAQ&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw2ijH7Xik8P4AVa-yQ2lHOU&ust=1568054270231035" width="50" height="50"
 
