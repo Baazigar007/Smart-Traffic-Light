@@ -39,13 +39,13 @@ Placing a Camera on each side of the intersection and Processing the images to g
     9. Get Number of Cars
 
 
-#### Black and White Image 
+### Black and White Image 
 
-<img src="/IMG/Proc1.jpg" width="450" height="500">
+![Image](/IMG/Proc1.jpg)
 
-#### Edge Detection Image
+### Edge Detection Image
 
-<img src="/IMG/Proc2.jpg" width="450" height="500">
+![Image](/IMG/Proc2.jpg)
 
 ### Machine Learning Approach 
     
@@ -59,12 +59,13 @@ Capturing an image of each side of the intersection and passing it to the object
     4. Cars are counted in the Detections 
     
  
-#### Input Image  
-<img src="/IMG/image.jpg" width="450" height="500">
+### Input Image  
 
-#### Detected Objects
-<img src="/IMG/imagenew.jpg" width="450" height="500">  
+![Image](/IMG/image.jpg)
 
+### Detected Objects
+
+![Image](/IMG/imagenew.jpg)
 
 ## How are these Numbers manipulated ??
 
@@ -159,11 +160,13 @@ More Efficient | Comparitively lesser Efficient
 
 ## Output Examples 
 
-#### Normal Version Output
-<img src="/IMG/Op.png" width="700" height="500">
+### Normal Version Output
 
-#### Prototype Extended Version Output
-<img src="/IMG/Proto.png" width="700" height="500">
+![Image](/IMG/Op.png)
+
+### Prototype Extended Version Output
+
+![Image](/IMG/Proto.png)
 
 ## Constraints 
 
