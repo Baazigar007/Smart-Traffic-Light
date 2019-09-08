@@ -79,7 +79,7 @@ Placing a Camera on each side of the intersection and Processing the images to g
     on each side of the intersection .
     
     The Image taken is processed :
-    - [x] Read using OpenCv Library in Python
+    1. Read using OpenCv Library in Python
     2. resized according to need
     3. Converted to Black and White 
     4. Removing Gaussian Noise
