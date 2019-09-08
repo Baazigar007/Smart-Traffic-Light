@@ -2,8 +2,9 @@
 
 ## What is the Problem ??
 
-    With increasing urban population and hence the number of vehicles, need of controlling streets, 
-    highways and roads is major issue. 
+    With increasing urban population and hence the number of vehicles, 
+    need of controlling streets,highways and roads is major issue. 
+    
 One of the main reasons behind today’s traffic problem are the techniques that are used for traffic
 management. It has no emphasis on _live traffic scenario_, thus leading to inefficient traffic management systems.
 These traffic timers just show the preset time.
@@ -90,11 +91,10 @@ Placing a Camera on each side of the intersection and Processing the images to g
 
 
 #### Black and White Image 
-<img src="/IMG/image-1 copy.jpg" alt="Image BW"/>
+![Image](/IMG/Proc1.jpg)
 
 #### Edge Detection Image
-<img src="/IMG/image copy.jpg" alt="Edge Detection"/>
-
+![Image](/IMG/Proc2.jpg)
 
 ### Machine Learning Approach 
     
@@ -109,11 +109,9 @@ Capturing an image of each side of the intersection and passing it to the object
     
  
 #### Input Image  
-<img src="/IMG/image.jpg" alt="Input"/>
-
+![Image](/IMG/image.jpg)
 #### Detected Objects
-<img src="/IMG/imagenew.jpg" alt="Output"/>
-  
+![Image](/IMG/imagenew.jpg)  
 
 ```python
 
@@ -212,11 +210,10 @@ More Efficient | Comparitively lesser Efficient
 ## Output Examples 
 
 #### Normal Version Output
-<img src="/IMG/Op.png" alt=" Output Image "/>
+![Image](/IMG/Op.png)
 
 #### Prototype Extended Version Output
-<img src="/IMG/Proto.png" alt="Prototype output"/>
-
+![Image](/IMG/Proto.png)
 ## Constraints 
 
 - At Max 60 cars can be accomodated in the camera frame 
