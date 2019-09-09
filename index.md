@@ -197,7 +197,7 @@ More Efficient | Comparitively lesser Efficient
  
  **Contact Me :**
  
-[![alt text]<img src="https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png " width="50" height="50"> ][hyperlink]
+[![alt text] <img src="/IMG/Lin.png" width="50" height="50"> ][hyperlink]
 
-  [hyperlink]: vaibhavsethia1998@gmail.com
+  [hyperlink]: https://www.linkedin.com/in/vaibhav-sethia-4711b8145/
   [image]: https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png 
