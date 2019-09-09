@@ -191,3 +191,13 @@ More Efficient | Comparitively lesser Efficient
 - Linking of other traffic lights in sync to provide better congestion clearing 
 - Can be developed further to be used by emergency vehicles to provide Green route and decreasing accidents on intersections.
 
+***
+
+## Wanna Help ??
+ 
+ **Contact Me :**
+ 
+[![alt text]<img src="https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png " width="50" height="50"> ][hyperlink]
+
+  [hyperlink]: vaibhavsethia1998@gmail.com
+  [image]: https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png 
