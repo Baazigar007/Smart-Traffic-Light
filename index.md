@@ -197,7 +197,11 @@ More Efficient | Comparitively lesser Efficient
  
  **Contact Me :**
  
-[![alt text] <img src="/IMG/Lin.png" width="50" height="50"> ][hyperlink]
+ [![alt text](<img src="/IMG/Lin.png" width="50" height="50">)](https://www.linkedin.com/in/vaibhav-sethia-4711b8145/)
 
+
+[![alt text] <p align="center" ><img src="/IMG/Lin.png" width="50" height="50"> </p>][hyperlink]
   [hyperlink]: https://www.linkedin.com/in/vaibhav-sethia-4711b8145/
-  [image]: https://cdn.windowsreport.com/wp-content/uploads/2017/10/gmail-attachments-failed-loading.png 
+  
+[<p align="center" ><img src="/IMG/Mail.png" width="50" height="50"> </p>][hyperlink]
+  [hyperlink]: https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwLzWfFqlwLLWnvHtFhWCPpWWhgMTnFMGJdmgWRpnXsTRLkTLzjDjHWqVkLZQQRLWrfZQ
