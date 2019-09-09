@@ -195,10 +195,12 @@ More Efficient | Comparitively lesser Efficient
 
 <h2 align="center">Wanna Help ?? Contact Me :</h2>
  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vaibhav-sethia-4711b8145/" rel="some text"  >![Foo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gb4hSdBab5OaZmXU36ujdk9MtdpDF-nV55T0du5pMvEtDr4m)</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vaibhav-sethia-4711b8145/" rel="some text"  >![Foo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gb4hSdBab5OaZmXU36ujdk9MtdpDF-nV55T0du5pMvEtDr4m)</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwLzWfFqlwLLWnvHtFhWCPpWWhgMTnFMGJdmgWRpnXsTRLkTLzjDjHWqVkLZQQRLWrfZQ" rel="some text" align="center" >![Foo](https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-128.png)</a>
+  ***
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vaibhavsethia" rel="some text" align="center" >![Foo](https://www.freeicons.io/laravel/public/uploads/icons/png/13855371531555590081-128.png)</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/vaibhav_9_8/" rel="some text" align="right" >![Foo](https://turningheadsfi.files.wordpress.com/2018/08/instagram-logo-128x128.png)</a>
 
