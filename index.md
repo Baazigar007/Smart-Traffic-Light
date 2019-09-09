@@ -134,7 +134,7 @@ For eg:
 - List = [5,20,30,45]
     - Will result in Moderate variance (212.5) and a timer of maximum 50 seconds will be alloted 
     
-<h4 align="center">Conditions </h4>#### Slab Division Algorithm 
+<h4 align="center">Slab Division Algorithm </h4> 
 
     Slab consists of set of numbers with a lower and upper bound. Making slabs and dividing the number of cars 
     on the basis of slabs and alloting appropriate time can be done to make the congested traffic flow more smoothly.
