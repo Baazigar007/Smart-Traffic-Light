@@ -1,5 +1,6 @@
 
-## What is the Problem ??
+<h2 align="center">What is the Problem ??</h2>
+
 
     With increasing urban population and hence the number of vehicles, 
     need of controlling streets,highways and roads is major issue. 
@@ -16,14 +17,14 @@ If the traffic light timers are showing correct time to regulate the traffic, th
     
 ***
 
-## How is it [Solved](https://webchronicletoday.com/2019/09/05/intelligent-traffic-management-system-market-ability-to-improve-efficiency-in-various-situations-including-mobility-and-road-transport-to-boost-the-market/) ??
+<h2 align="center">How is it Solved ??</h2>
     
     The most appropriate solution to the Congestion problem is letting the congested sides cross the intersection first.
     
 The above proposed solution can be implemented using **OpenCv** library in Python or **Machine Learning** via 
     Object Detection to count the number of cars in an image and also differentiate between the different types of vehicles.
     
-### OpenCv Approach 
+<h3 align="center">OpenCv Approach </h3>
 
 Placing a Camera on each side of the intersection and Processing the images to get the number of vehicles 
     on each side of the intersection .
@@ -39,16 +40,15 @@ Placing a Camera on each side of the intersection and Processing the images to g
     8. Find the percentage change 
     9. Get Number of Cars
 
-
-### Black and White Image 
+<h3 align="center">Black and White Image  </h3>
 
 ![Image](/IMG/Proc1.jpg)
 
-### Edge Detection Image
+<h3 align="center">Edge Detection Image</h3>
 
 ![Image](/IMG/Proc2.jpg)
 
-### Machine Learning Approach 
+<h3 align="center">Machine Learning Approach </h3>
     
 Capturing an image of each side of the intersection and passing it to the object detection module to get the 
     number of different vehicles on different sides of the intersection.
@@ -60,17 +60,17 @@ Capturing an image of each side of the intersection and passing it to the object
     4. Cars are counted in the Detections 
     
  
-### Input Image  
+<h3 align="center">Input Image</h3> 
 
 ![Image](/IMG/image.jpg)
 
-### Detected Objects
+<h3 align="center">Detected Objects</h3>
 
 ![Image](/IMG/imagenew.jpg)
 
 ***
 
-## How are these Numbers manipulated ??
+<h2 align="center">How are these Numbers manipulated ??</h2>
 
 Once stored in a list the number of cars are manipulated to clear the congestion as soon as possible .
     
@@ -85,7 +85,7 @@ else :
     CongestedTrafficS(List)
 ```
 
-#### Conditions :
+<h4 align="center">Conditions </h4>
 
 - [x] __Cycle is completed__ i.e Once a signal is green , it turns green again once all 3 other signals get there chance .
 
@@ -96,13 +96,13 @@ else :
 - [x] __Single sided case__ i.e In a situation there is just one sided traffic flow and all the other sides of the intersection are empty then complete preference will be given to the corresponding side.**This is very useful in situations like evacuation**
     
     
-### Types of Congested traffic clearing algorithms 
+<h3 align="center">Types of Congested traffic clearing algorithms  </h3>
 
     Two types of algorithms are developed in the project :
     1. Variance-Based Algorithm
     2. Slab Division Algorithm 
 
-#### Variance-Based Algorithm 
+<h4 align="center">Variance-Based Algorithm  </h4>
 
     The variance in probability theory and statistics is a way to measure how far a set of numbers is spread out. 
     Variance describes how much a random variable differs from its expected value. The variance is defined 
@@ -134,7 +134,7 @@ For eg:
 - List = [5,20,30,45]
     - Will result in Moderate variance (212.5) and a timer of maximum 50 seconds will be alloted 
     
-#### Slab Division Algorithm 
+<h4 align="center">Conditions </h4>#### Slab Division Algorithm 
 
     Slab consists of set of numbers with a lower and upper bound. Making slabs and dividing the number of cars 
     on the basis of slabs and alloting appropriate time can be done to make the congested traffic flow more smoothly.
@@ -163,19 +163,19 @@ More Efficient | Comparitively lesser Efficient
 
 ***
 
-## Output Examples 
+<h2 align="center">Output Examples  </h2>
 
-### Normal Version Output
+<h3 align="center">Normal Version Output </h3>
 
 ![Image](/IMG/Op.png)
 
-### Prototype Extended Version Output
+<h3 align="center">Prototype Extended Version Output </h3>
 
 ![Image](/IMG/Proto.png)
 
 ***
 
-## Constraints 
+<h2 align="center">Constraints  </h2>
 
 - At Max 60 cars can be accomodated in the camera frame 
 - Getting Image of an empty road for reference image 
@@ -184,7 +184,7 @@ More Efficient | Comparitively lesser Efficient
 
 ***
 
-## Future Scope
+<h2 align="center">Future Scope </h2>
 
 - Can be developed for three lanes of each side of the road ( Prototype Extended Version )
 - Can be moulded to be used in situations like mass evacuation 
@@ -193,15 +193,13 @@ More Efficient | Comparitively lesser Efficient
 
 ***
 
-## Wanna Help ??
+<h2 align="center">Wanna Help ?? Contact Me :</h2>
  
- **Contact Me :**
- 
- [![alt text](<img src="/IMG/Lin.png" width="50" height="50">)](https://www.linkedin.com/in/vaibhav-sethia-4711b8145/)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vaibhav-sethia-4711b8145/" rel="some text"  >![Foo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gb4hSdBab5OaZmXU36ujdk9MtdpDF-nV55T0du5pMvEtDr4m)</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwLzWfFqlwLLWnvHtFhWCPpWWhgMTnFMGJdmgWRpnXsTRLkTLzjDjHWqVkLZQQRLWrfZQ" rel="some text" align="center" >![Foo](https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-128.png)</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vaibhavsethia" rel="some text" align="center" >![Foo](https://www.freeicons.io/laravel/public/uploads/icons/png/13855371531555590081-128.png)</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.instagram.com/vaibhav_9_8/" rel="some text" align="right" >![Foo](https://turningheadsfi.files.wordpress.com/2018/08/instagram-logo-128x128.png)</a>
 
 
-[![alt text] <p align="center" ><img src="/IMG/Lin.png" width="50" height="50"> </p>][hyperlink]
-  [hyperlink]: https://www.linkedin.com/in/vaibhav-sethia-4711b8145/
-  
-[<p align="center" ><img src="/IMG/Mail.png" width="50" height="50"> </p>][hyperlink]
-  [hyperlink]: https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwLzWfFqlwLLWnvHtFhWCPpWWhgMTnFMGJdmgWRpnXsTRLkTLzjDjHWqVkLZQQRLWrfZQ
