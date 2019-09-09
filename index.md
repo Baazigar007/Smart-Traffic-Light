@@ -14,6 +14,7 @@ If the traffic light timers are showing correct time to regulate the traffic, th
     
 <img src="https://www.transportation.gov/sites/dot.gov/files/2.jpg" width="1000" height="500">
     
+***
 
 ## How is it [Solved](https://webchronicletoday.com/2019/09/05/intelligent-traffic-management-system-market-ability-to-improve-efficiency-in-various-situations-including-mobility-and-road-transport-to-boost-the-market/) ??
     
@@ -66,6 +67,8 @@ Capturing an image of each side of the intersection and passing it to the object
 ### Detected Objects
 
 ![Image](/IMG/imagenew.jpg)
+
+***
 
 ## How are these Numbers manipulated ??
 
@@ -158,6 +161,8 @@ Calculates the Time according to the variance of the List | Calculates the Time 
 Results in a more Dynamic approach | Comparitively lesser Dynamic then Variance-Based 
 More Efficient | Comparitively lesser Efficient 
 
+***
+
 ## Output Examples 
 
 ### Normal Version Output
@@ -168,6 +173,8 @@ More Efficient | Comparitively lesser Efficient
 
 ![Image](/IMG/Proto.png)
 
+***
+
 ## Constraints 
 
 - At Max 60 cars can be accomodated in the camera frame 
@@ -175,9 +182,12 @@ More Efficient | Comparitively lesser Efficient
 - Object detection sometimes detects same vehicle as both car and truck simultaneously
 - Image Noise 
 
+***
+
 ## Future Scope
 
 - Can be developed for three lanes of each side of the road ( Prototype Extended Version )
 - Can be moulded to be used in situations like mass evacuation 
 - Linking of other traffic lights in sync to provide better congestion clearing 
 - Can be developed further to be used by emergency vehicles to provide Green route and decreasing accidents on intersections.
+
