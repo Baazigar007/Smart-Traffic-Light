@@ -15,7 +15,7 @@ If the traffic light timers are showing correct time to regulate the traffic, th
     
 <img src="https://www.transportation.gov/sites/dot.gov/files/2.jpg" width="1000" height="500">
     
-***
+*** 
 
 <h2 align="center">How is it Solved ??</h2>
     
@@ -91,7 +91,7 @@ else :
 
 - [x] __Max Waiting time__ i.e The maximum waiting time for any side is 180 seconds or 3 minutes.
 
-- [x] __Few Car case__ i.e If a side has very less number of cars eg. 3 then the corresponding side will turn to green instead of making those few cars wait for 180 seconds at max .
+- [x] __Few Car case__ i.e If a side has  very less number of cars for eg. 3 then the corresponding side will turn to green instead of making those few cars wait for 180 seconds at max .
     
 - [x] __Single sided case__ i.e In a situation there is just one sided traffic flow and all the other sides of the intersection are empty then complete preference will be given to the corresponding side.**This is very useful in situations like evacuation**
     
