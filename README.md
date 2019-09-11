@@ -7,7 +7,7 @@
     
 One of the main reasons behind today’s traffic problem are the techniques that are used for traffic
 management. It has no emphasis on _live traffic scenario_, thus leading to inefficient traffic management systems.
-These traffic timers just show the preset time.
+These traffic timers just show the preset  time.
     
 If the traffic light timers are showing correct time to regulate the traffic, then the time wasted on unwanted green
     signals will be saved. Timer for every lane is the simplest way to control traffic. 
